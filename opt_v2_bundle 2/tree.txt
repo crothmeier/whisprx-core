@@ -1,0 +1,11 @@
+opt_v2_bundle/
+  README.md
+  feature_parallel_audio_worker/
+    src/
+      whisprx/
+        tts_streamer.py
+    tests/
+      test_parallel_worker.py
+  docs/
+    optimisations_v2/
+      optimisations_v2.md
